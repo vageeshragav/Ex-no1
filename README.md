@@ -208,8 +208,11 @@ END
 #### OUTPUT 
 
 <img width="252" height="342" alt="image" src="https://github.com/user-attachments/assets/a8474d62-a3b2-449c-af27-00021bcbdf6b" />
+ADDITION
 <img width="796" height="472" alt="image" src="https://github.com/user-attachments/assets/1fd13ff9-c7ae-45c8-93a6-b3304194ca5a" />
+SUBTRACTION
 <img width="796" height="472" alt="multiplication_output" src="https://github.com/user-attachments/assets/c6673e13-127c-4d8a-bdb3-ec3e4550bf71" />
+DIVISON
 <img width="796" height="472" alt="multiplication_output (1)" src="https://github.com/user-attachments/assets/dd822ce0-cf79-482b-9b03-2641d3d5eb9a" />
 
 
