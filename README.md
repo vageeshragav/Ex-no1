@@ -292,6 +292,11 @@ P = 0.1 W
 Therefore, the estimated microcontroller power consumption is:
 
 **P = 100 mW**
+**output**
+<img width="1600" height="951" alt="image" src="https://github.com/user-attachments/assets/3b273ff3-b023-4a6d-aa85-4fbc9ae7dbee" />
+<img width="1600" height="961" alt="image" src="https://github.com/user-attachments/assets/8c6e06b6-3b97-4b37-849d-0942a80128a6" />
+
+
 
 ### 12.2 Pull-Down Resistor Calculation
 
@@ -565,6 +570,6 @@ Therefore, the design and implementation of a push-button-controlled buzzer and 
 | Software | Keil µVision |
 | Simulation | Proteus |
 
-**Developed as an embedded systems project using the AT89C51 microcontroller.**
 
-Before uploading: Replace the author details, verify the BC547 base resistor against the AT89C51 output-current limits, and replace theoretical readings with your actual experimental measurements.
+
+
